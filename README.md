@@ -1,2 +1,2 @@
 # ltotv-receptar-child
-Child theme for ltotv rebranding relaunch
+Child theme for ltotv new website
